@@ -48,7 +48,7 @@ function Contact() {
               </div>
               <button
                 type="submit"
-                className="w-full bg-blue-500 text-white font-bold py-3 rounded-lg hover:bg-blue-600 transition"
+                className="w-full bg-gray-500 text-white font-bold py-3 rounded-lg hover:bg-gray-600 transition"
               >
                 Gönder
               </button>

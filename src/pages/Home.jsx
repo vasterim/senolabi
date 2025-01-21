@@ -8,7 +8,6 @@ function Home() {
     <div className="">
       <Slider />
       <NewProducts />
-      <ChatButton />
       <Explainer />
     </div>
   );
